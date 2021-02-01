@@ -1,0 +1,4 @@
+classes=16
+train=data/dota/train.txt
+valid=data/dota/val.txt
+names=data/dota/dota.names

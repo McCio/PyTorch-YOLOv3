@@ -14,7 +14,6 @@ class DefaultAug(ImgAug):
 
 
 AUGMENTATION_TRANSFORMS = transforms.Compose([
-        AbsoluteLabels(),
         DefaultAug(),
         PadSquare(),
         RelativeLabels(),
