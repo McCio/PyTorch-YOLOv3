@@ -6,6 +6,7 @@ build
 dist
 output
 data/coco
+data/dota
 backup
 weights/*.weights
 __pycache__
